@@ -22,14 +22,14 @@ function Chat() {
                                 Delivered
                             </div>
                         </div>
-                        <div className="chat chat-end">
+                        <div className="chat chat-end mr-3">
                             <div className="chat-image avatar">
                                 <div className="w-10 rounded-full">
                                     <img src="https://placeimg.com/192/192/people" alt=""/>
                                 </div>
                             </div>
                             <div className="chat-header">
-                                Anakin
+                                Luo Designs
                                 <time className="text-xs opacity-50">12:46</time>
                             </div>
                             <div className="chat-bubble bg-blue-600">Thank you! I hand coded it using React and TailwindCss which
@@ -38,7 +38,7 @@ function Chat() {
 
                         </div>
 
-                        <div className="chat chat-start">
+                        <div className="chat chat-start ml-3">
                             <div className="chat-image avatar">
                                 <div className="w-10 rounded-full">
                                     <img src="https://placeimg.com/192/192/people" alt=""/>
@@ -54,14 +54,14 @@ function Chat() {
                             </div>
                         </div>
 
-                        <div className="chat chat-end">
+                        <div className="chat chat-end mr-3">
                             <div className="chat-image avatar">
                                 <div className="w-10 rounded-full">
                                     <img src="https://placeimg.com/192/192/people" alt=""/>
                                 </div>
                             </div>
                             <div className="chat-header">
-                                Anakin
+                                Luo Designs
                                 <time className="text-xs opacity-50">12:46</time>
                             </div>
                             <div className="chat-bubble bg-blue-600">Head over to Luo Designs and contact me to get started on your website!

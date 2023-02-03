@@ -21,7 +21,6 @@ root.render(
     </Helmet>
 
   <React.StrictMode>
-    
       <Navbar />
       <App />
 
